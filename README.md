@@ -6,6 +6,7 @@
 <hr>
 
 ### Languages and Tools
+<div style="display:flex;align-items:center">
 <img style="justify-content: flex-start;margin:0 2px" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="justify-content: flex-start;margin:0 2px" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img style="justify-content: flex-start;margin:0 2px" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -18,6 +19,7 @@
 <img style="justify-content: flex-start;margin:0 2px" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img style="justify-content: flex-start;margin:0 2px" alt="matlab" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img style="justify-content: flex-start;margin:0 8px" alt="arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+</div>
 <br><br>
 
 
