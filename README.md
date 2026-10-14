@@ -169,11 +169,11 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img width="100%" alt="Estadísticas de GitHub de Diego: estrellas, commits, pull requests, revisiones y contribuciones" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingelectronicadj&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&locale=es&disable_animations=true&custom_title=Estadísticas%20de%20GitHub&theme=tokyonight&bg_color=0d1b4a&title_color=ffffff&text_color=c3ceee&icon_color=22d3ee&hide_border=true&border_radius=16">
+    <td width="50%" valign="top">
+      <img width="100%" alt="GitHub en números: 40 proyectos propios, 18 estrellas recibidas, 25 seguidores y 12 años en GitHub" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/stats.svg">
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img width="100%" alt="Lenguajes más usados por Diego en GitHub, en gráfico de dona" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingelectronicadj&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Stata,PostScript&locale=es&disable_animations=true&theme=tokyonight&bg_color=0d1b4a&title_color=ffffff&text_color=c3ceee&hide_border=true&border_radius=16">
+    <td width="50%" valign="top">
+      <img width="100%" alt="Lenguajes más usados por número de proyectos propios: JavaScript 9, Arduino 6, C++ 4, Python 4, MATLAB 2 y Processing 2. También Shell, PHP, CSS y VBA" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/languages.svg">
     </td>
   </tr>
 </table>
