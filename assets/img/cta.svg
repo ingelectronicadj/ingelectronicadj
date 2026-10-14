@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 60" width="360" height="60" role="img" aria-label="Agenda una conversación">
+<title>Agenda una conversación</title>
+<defs>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect width="360" height="60" rx="30"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif}
+  .s{animation:s 4s 1s ease-in-out infinite}
+  @keyframes s{0%{transform:translateX(-120px)}60%,100%{transform:translateX(360px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="360" height="60" fill="url(#b)"/>
+  <rect class="s" width="120" height="60" fill="url(#s)"/>
+</g>
+<g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(34 18)">
+  <rect x="1" y="3" width="22" height="20" rx="3"/><path d="M1 10h22M7 0v5M17 0v5"/>
+</g>
+<text x="72" y="37" font-size="18" font-weight="700" fill="#FFFFFF">Agenda una conversación →</text>
+</svg>

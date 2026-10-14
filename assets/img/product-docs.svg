@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 164" width="480" height="164" role="img" aria-label="Docs: Auditoría y corrección de documentos PDF y Word (PDF/UA)">
+<title>Docs</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1b4a"/><stop offset="1" stop-color="#070f2e"/></linearGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FBBF24" stop-opacity="0"/><stop offset=".5" stop-color="#FBBF24" stop-opacity=".9"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="c"><rect x="0" y="0" width="480" height="164" rx="16"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif}
+  .sweep{animation:sweep 5s 2s ease-in-out infinite}
+  @keyframes sweep{0%{transform:translateX(-480px)}60%,100%{transform:translateX(480px)}}
+  .ic{fill:none;stroke:#FBBF24;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .knob{fill:#0d1b4a}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="480" height="164" fill="url(#bg)"/>
+  <rect class="sweep" x="0" y="0" width="480" height="3" fill="url(#sheen)"/>
+  <rect x="0" y="0" width="5" height="164" fill="#FBBF24" opacity=".9"/>
+  <circle cx="460" cy="154" r="90" fill="#FBBF24" opacity=".08"/>
+</g>
+<rect x=".75" y=".75" width="478.5" height="162.5" rx="15.5" fill="none" stroke="#FBBF24" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="28" y="24" width="48" height="48" rx="13" fill="#FBBF24" fill-opacity=".16" stroke="#FBBF24" stroke-opacity=".5"/>
+<g class="ic" transform="translate(40 36)"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4M9 12h6M9 16h6"/></g>
+<text x="92" y="57" font-size="23" font-weight="800" fill="#FFFFFF">Docs</text>
+<text x="28" y="102" font-size="14.5" fill="#C3CEEE"><tspan x="28" dy="0">Auditoría y corrección de documentos PDF y Word (PDF/UA)</tspan></text>
+<text x="28" y="146" font-size="14.5" font-weight="700" fill="#FBBF24">Abrir Docs →</text>
+</svg>

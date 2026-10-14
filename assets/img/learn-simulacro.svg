@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 270" width="320" height="270" role="img" aria-label="Simulacro CPACC: 87 preguntas de opción múltiple para practicar la certificación CPACC de la IAAP, con retroalimentación inmediata.">
+<title>Simulacro CPACC</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1b4a"/><stop offset="1" stop-color="#070f2e"/></linearGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FB923C" stop-opacity="0"/><stop offset=".5" stop-color="#FB923C" stop-opacity=".9"/><stop offset="1" stop-color="#FB923C" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="c"><rect x="0" y="0" width="320" height="270" rx="16"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif}
+  .sweep{animation:sweep 5s 2s ease-in-out infinite}
+  @keyframes sweep{0%{transform:translateX(-320px)}60%,100%{transform:translateX(320px)}}
+  .ic{fill:none;stroke:#FB923C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .knob{fill:#0d1b4a}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="320" height="270" fill="url(#bg)"/>
+  <rect class="sweep" x="0" y="0" width="320" height="3" fill="url(#sheen)"/>
+  <rect x="0" y="0" width="5" height="270" fill="#FB923C" opacity=".9"/>
+  <circle cx="300" cy="260" r="90" fill="#FB923C" opacity=".08"/>
+</g>
+<rect x=".75" y=".75" width="318.5" height="268.5" rx="15.5" fill="none" stroke="#FB923C" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="28" y="24" width="48" height="48" rx="13" fill="#FB923C" fill-opacity=".16" stroke="#FB923C" stroke-opacity=".5"/>
+<g class="ic" transform="translate(40 36)"><path d="M4 6l2 2 3-3M4 14l2 2 3-3M12 7h8M12 15h8"/></g>
+<text x="92" y="57" font-size="23" font-weight="800" fill="#FFFFFF">Simulacro CPACC</text>
+<text x="28" y="116" font-size="14.5" fill="#C3CEEE"><tspan x="28" dy="0">87 preguntas de opción múltiple</tspan><tspan x="28" dy="22">para practicar la certificación</tspan><tspan x="28" dy="22">CPACC de la IAAP, con</tspan><tspan x="28" dy="22">retroalimentación inmediata.</tspan></text>
+<text x="28" y="246" font-size="14.5" font-weight="700" fill="#FB923C">Practicar el examen →</text>
+</svg>
