@@ -9,7 +9,8 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 
 <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/location.svg" width="16" height="16" alt="" align="absmiddle"> Bogotá, Colombia
 
-[![A11Y PRO](https://img.shields.io/badge/A11Y_PRO-a11ypro.tech-2DDE98?style=flat-square&logoColor=black)](https://a11ypro.tech/)
+[![Sitio web](https://img.shields.io/badge/Sitio_web-diegomena.rocks-0A66C2?style=flat-square&logoColor=white)](https://diegomena.rocks/)
+[![A11Y PRO](https://img.shields.io/badge/A11Y_PRO-a11ypro.tech-1F6FEB?style=flat-square&logoColor=white)](https://a11ypro.tech/)
 [![Blog](https://img.shields.io/badge/Blog-artículos_técnicos-0A66C2?style=flat-square&logo=rss&logoColor=white)](https://a11ypro.tech/blog)
 [![Podcast](https://img.shields.io/badge/Podcast-serie_CPACC-8E44AD?style=flat-square&logo=applepodcasts&logoColor=white)](https://a11ypro.tech/podcast)
 [![Simulacro CPACC](https://img.shields.io/badge/Simulacro-CPACC_IAAP-E67E22?style=flat-square)](https://a11ypro.tech/examen-cpacc)
@@ -86,17 +87,25 @@ _Una persona con discapacidad no puede realizar ciertas actividades como una per
 
 ## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/code.svg" width="24" height="24" alt="" align="absmiddle"> Proyectos de código abierto
 
-<p align="center">
-  <a href="https://github.com/ingelectronicadj/test-cases-a11y">
-    <img alt="Repositorio test-cases-a11y: 86 casos de prueba WCAG 2.2 en español e inglés, listos para importar en Azure DevOps y Jira" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=test-cases-a11y&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2DDE98&hide_border=true" />
-  </a>
-  <a href="https://github.com/ingelectronicadj/pa11y_batch">
-    <img alt="Repositorio pa11y_batch: automatización en Bash para auditar la accesibilidad de varias URLs con Pa11y" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=pa11y_batch&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2DDE98&hide_border=true" />
-  </a>
-  <a href="https://github.com/ingelectronicadj/FisicaConPython">
-    <img alt="Repositorio FisicaConPython: gráficos 2D y 3D para aprender física moderna, cuántica y ondas electromagnéticas" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=FisicaConPython&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2DDE98&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ingelectronicadj/test-cases-a11y">
+        <img width="100%" alt="Repositorio test-cases-a11y: 86 casos de prueba WCAG 2.2 en español e inglés, listos para importar en Azure DevOps y Jira" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=test-cases-a11y&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2F81F7&hide_border=true&card_width=300" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ingelectronicadj/pa11y_batch">
+        <img width="100%" alt="Repositorio pa11y_batch: automatización en Bash para auditar la accesibilidad de varias URLs con Pa11y" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=pa11y_batch&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2F81F7&hide_border=true&card_width=300" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ingelectronicadj/FisicaConPython">
+        <img width="100%" alt="Repositorio FisicaConPython: gráficos 2D y 3D para aprender física moderna, cuántica y ondas electromagnéticas" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=FisicaConPython&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2F81F7&hide_border=true&card_width=300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>Ver más proyectos</strong></summary>
@@ -115,53 +124,63 @@ _Una persona con discapacidad no puede realizar ciertas actividades como una per
 ## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/tools.svg" width="24" height="24" alt="" align="absmiddle"> Tecnologías
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Accesibilidad y QA</strong><br><br>
-      <img alt="WCAG 2.2" src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logo=w3c&logoColor=white"><br>
-      <img alt="Pa11y" src="https://img.shields.io/badge/Pa11y-2DDE98?style=flat-square&logoColor=black"><br>
-      <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"><br>
-      <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"><br>
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-    </td>
-    <td valign="top" width="33%">
-      <strong>Desarrollo web</strong><br><br>
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"><br>
-      <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-      <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"><br>
-      <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    </td>
-    <td valign="top" width="33%">
-      <strong>Datos, ciencia y electrónica</strong><br><br>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"><br>
-      <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-      <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"><br>
-      <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-      <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="22%">Área</th>
+      <th align="left">Herramientas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Accesibilidad y QA</strong></td>
+      <td valign="middle">
+        <img alt="WCAG 2.2" src="https://img.shields.io/badge/WCAG_2.2-161B22?style=flat-square">
+        <img alt="Pa11y" src="https://img.shields.io/badge/Pa11y-161B22?style=flat-square">
+        <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-161B22?style=flat-square">
+        <img alt="Jira" src="https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=2684FF">
+        <img alt="Bash" src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=6FD13F">
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Desarrollo web</strong></td>
+      <td valign="middle">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-161B22?style=flat-square">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E">
+        <img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB">
+        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-161B22?style=flat-square&logo=jquery&logoColor=2F81F7">
+        <img alt="PWA" src="https://img.shields.io/badge/PWA-161B22?style=flat-square&logo=pwa&logoColor=A78BFA">
+        <img alt="WordPress" src="https://img.shields.io/badge/WordPress-161B22?style=flat-square&logo=wordpress&logoColor=4DA3D4">
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Datos, ciencia y electrónica</strong></td>
+      <td valign="middle">
+        <img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=4B8BBE">
+        <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=F37626">
+        <img alt="R" src="https://img.shields.io/badge/R-161B22?style=flat-square&logo=r&logoColor=5A9BE0">
+        <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-161B22?style=flat-square">
+        <img alt="C++" src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=3D9BE0">
+        <img alt="Arduino" src="https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00C4CC">
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/graph.svg" width="24" height="24" alt="" align="absmiddle"> GitHub en números
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ingelectronicadj&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&locale=es&disable_animations=true&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2DDE98&hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ingelectronicadj&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&locale=es&disable_animations=true&hide_border=true">
-    <img height="190" alt="Estadísticas de GitHub de Diego: estrellas, commits, pull requests, issues y contribuciones" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingelectronicadj&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&locale=es&disable_animations=true&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingelectronicadj&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Stata,PostScript&locale=es&disable_animations=true&theme=tokyonight&bg_color=050f2c&text_color=fff&hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingelectronicadj&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Stata,PostScript&locale=es&disable_animations=true&hide_border=true">
-    <img height="190" alt="Lenguajes más usados por Diego en GitHub, en gráfico de dona" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingelectronicadj&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Stata,PostScript&locale=es&disable_animations=true&hide_border=true">
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" alt="Estadísticas de GitHub de Diego: estrellas, commits, pull requests, revisiones y contribuciones" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingelectronicadj&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&locale=es&disable_animations=true&custom_title=Estadísticas%20de%20GitHub&theme=tokyonight&bg_color=050f2c&text_color=fff&icon_color=2F81F7&hide_border=true">
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" alt="Lenguajes más usados por Diego en GitHub, en gráfico de dona" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingelectronicadj&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Stata,PostScript&locale=es&disable_animations=true&theme=tokyonight&bg_color=050f2c&text_color=fff&hide_border=true">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -171,7 +190,7 @@ _Una persona con discapacidad no puede realizar ciertas actividades como una per
 
 ¿Tu equipo necesita auditar, probar o construir un producto digital accesible?
 
-[<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/calendar.svg" width="16" height="16" alt="" align="absmiddle"> **Agenda una conversación**](https://cal.com/a11y-pro/agenda) · [<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/search.svg" width="16" height="16" alt="" align="absmiddle"> Auditoría gratuita con Scanner](https://scanner.a11ypro.tech/) · [<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/mail.svg" width="16" height="16" alt="" align="absmiddle"> Correo](mailto:ingelectronicadj@gmail.com)
+[<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/calendar.svg" width="16" height="16" alt="" align="absmiddle"> **Agenda una conversación**](https://cal.com/a11y-pro/agenda) · [<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/search.svg" width="16" height="16" alt="" align="absmiddle"> Auditoría gratuita con Scanner](https://scanner.a11ypro.tech/) · [<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/code.svg" width="16" height="16" alt="" align="absmiddle"> Sitio web personal](https://diegomena.rocks/) · [<img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/mail.svg" width="16" height="16" alt="" align="absmiddle"> Correo](mailto:ingelectronicadj@gmail.com)
 
 <sub>Este README está pensado para ser accesible: imágenes con texto alternativo, jerarquía de encabezados lógica, iconos decorativos, sin animaciones y con modo claro y oscuro. Si encuentras una barrera, [escríbeme](mailto:ingelectronicadj@gmail.com).</sub>
 
