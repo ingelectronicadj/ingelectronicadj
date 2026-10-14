@@ -87,21 +87,22 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/ingelectronicadj/test-cases-a11y">
-        <img width="100%" alt="Repositorio test-cases-a11y: 86 casos de prueba WCAG 2.2 en español e inglés, listos para importar en Azure DevOps y Jira" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=test-cases-a11y&theme=tokyonight&bg_color=0d1b4a&title_color=ffffff&text_color=c3ceee&icon_color=22d3ee&hide_border=true&border_radius=16&card_width=300" />
+        <img width="100%" alt="Repositorio test-cases-a11y: casos de prueba basados en WCAG 2.2, preparados para importación masiva en Azure DevOps y Jira" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-test-cases-a11y.svg" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/ingelectronicadj/pa11y_batch">
-        <img width="100%" alt="Repositorio pa11y_batch: automatización en Bash para auditar la accesibilidad de varias URLs con Pa11y" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=pa11y_batch&theme=tokyonight&bg_color=0d1b4a&title_color=ffffff&text_color=c3ceee&icon_color=a78bfa&hide_border=true&border_radius=16&card_width=300" />
+        <img width="100%" alt="Repositorio pa11y_batch: automatización en Bash para auditar la accesibilidad web de múltiples URLs en lote usando Pa11y" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-pa11y-batch.svg" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/ingelectronicadj/FisicaConPython">
-        <img width="100%" alt="Repositorio FisicaConPython: gráficos 2D y 3D para aprender física moderna, cuántica y ondas electromagnéticas" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ingelectronicadj&repo=FisicaConPython&theme=tokyonight&bg_color=0d1b4a&title_color=ffffff&text_color=c3ceee&icon_color=fbbf24&hide_border=true&border_radius=16&card_width=300" />
+        <img width="100%" alt="Repositorio FisicaConPython: gráficos 2D y 3D interactivos para aprender física moderna, cuántica y ondas electromagnéticas" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-fisica-con-python.svg" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <details>
 <summary><strong>Ver más proyectos</strong></summary>
