@@ -81,23 +81,40 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 
 <div align="center"><img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/divider.svg" alt="" width="100%"></div>
 
-## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/code.svg" width="24" height="24" alt="" align="absmiddle"> Proyectos de código abierto
+## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/code.svg" width="24" height="24" alt="" align="absmiddle"> Ecosistema Open Source de Accesibilidad Digital
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/ingelectronicadj/test-cases-a11y">
-        <img width="100%" alt="Repositorio test-cases-a11y: casos de prueba basados en WCAG 2.2, preparados para importación masiva en Azure DevOps y Jira" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-test-cases-a11y.svg" />
+        <img width="100%" alt="Repositorio test-cases-a11y: 87 casos de prueba basados en WCAG 2.2 en español e inglés para Jira, Azure DevOps, TestRail, Qase y GitLab" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-test-cases-a11y.svg" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/ingelectronicadj/pa11y_batch">
-        <img width="100%" alt="Repositorio pa11y_batch: automatización en Bash para auditar la accesibilidad web de múltiples URLs en lote usando Pa11y" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-pa11y-batch.svg" />
+        <img width="100%" alt="Repositorio pa11y_batch: auditoría web por lotes con Pa11y (axe y htmlcs), traducción al español, dashboard HTML y modo CI/CD" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-pa11y-batch.svg" />
       </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/ingelectronicadj/FisicaConPython">
-        <img width="100%" alt="Repositorio FisicaConPython: gráficos 2D y 3D interactivos para aprender física moderna, cuántica y ondas electromagnéticas" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-fisica-con-python.svg" />
+      <a href="https://github.com/ingelectronicadj/a11y-help-VBAexcel">
+        <img width="100%" alt="Repositorio a11y-help-VBAexcel: asistente en Excel con VBA y catálogo de reglas axe-core en español para estandarizar auditorías" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-a11y-help-vba.svg" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ingelectronicadj/freespeech">
+        <img width="100%" alt="Repositorio freespeech: Sistema Aumentativo y Alternativo de Comunicación (SAAC) en Vue 3 con copiado de texto plano y ventana flotante para Moodle" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-freespeech.svg" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ingelectronicadj/ReproductorLSC">
+        <img width="100%" alt="Repositorio ReproductorLSC: reproductor educativo HTML5 con Lengua de Señas Colombiana sincronizada, vista lado a lado, bucle A-B y glosario interactivo" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-reproductor-lsc.svg" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ingelectronicadj/accessibility-agents">
+        <img width="100%" alt="Repositorio accessibility-agents: agentes especialistas en WCAG 2.2 AA para auditar código web, documentos Office/PDF y Markdown" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-accessibility-agents.svg" />
       </a>
     </td>
   </tr>
@@ -105,14 +122,16 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 
 
 <details>
-<summary><strong>Ver más proyectos</strong></summary>
+<summary><strong>Ver más proyectos (Física Computacional, IoT y Electrónica)</strong></summary>
 
 <br>
 
-| Proyecto                                                                                                    | Descripción                                                                     | Tecnologías            |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------- |
-| [IoT medidor de peso](https://github.com/ingelectronicadj/IoT-para-medir-peso-al-interior-de-un-contendeor) | Sensado de peso remoto dentro de un contenedor, con envío a un servidor por GSM | Atmega 328, GSM, Eagle |
-| [Comunicaciones-Digitales](https://github.com/ingelectronicadj/Comunicaciones-Digitales)                    | Proyectos de comunicaciones digitales                                           | C++                    |
+| Proyecto                                                                                                    | Descripción                                                                                        | Tecnologías              |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------ |
+| [FisicaConPython](https://github.com/ingelectronicadj/FisicaConPython)                                      | Gráficos 2D y 3D interactivos para aprender física moderna, cuántica y ondas electromagnéticas     | Python, Matplotlib       |
+| [IoT-Quality_Air_And_Water](https://github.com/ingelectronicadj/IoT-Quality_Air_And_Water)                  | Modelo escalable de captura de datos IoT ajustado a las normas ISO 14064 (Huella de carbono/agua)  | C++, IoT                 |
+| [IoT medidor de peso](https://github.com/ingelectronicadj/IoT-para-medir-peso-al-interior-de-un-contendeor) | Sensado de peso remoto dentro de un contenedor, con envío a un servidor por GSM                    | Atmega 328, GSM, Eagle   |
+| [Comunicaciones-Digitales](https://github.com/ingelectronicadj/Comunicaciones-Digitales)                    | Proyectos de modelamiento y simulación de comunicaciones digitales                                 | C++                      |
 
 </details>
 
@@ -132,7 +151,10 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
       <td valign="middle"><strong>Accesibilidad y QA</strong></td>
       <td valign="middle">
         <img alt="WCAG 2.2" src="https://img.shields.io/badge/WCAG_2.2-0EA5E9?style=for-the-badge">
+        <img alt="axe-core" src="https://img.shields.io/badge/axe--core-D9381E?style=for-the-badge">
         <img alt="Pa11y" src="https://img.shields.io/badge/Pa11y-7C3AED?style=for-the-badge">
+        <img alt="HTML CodeSniffer" src="https://img.shields.io/badge/HTML__CodeSniffer-0F766E?style=for-the-badge">
+        <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge">
         <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge">
         <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
         <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
@@ -144,8 +166,9 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827">
+        <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=111827">
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+        <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
         <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
         <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
       </td>
