@@ -25,6 +25,6 @@
 <rect x="28" y="24" width="48" height="48" rx="13" fill="#A78BFA" fill-opacity=".16" stroke="#A78BFA" stroke-opacity=".5"/>
 <g class="ic" transform="translate(40 36)"><path d="M4 6h16M4 12h16M4 18h16"/><circle cx="9" cy="6" r="2.2" class="knob"/><circle cx="15" cy="12" r="2.2" class="knob"/><circle cx="8" cy="18" r="2.2" class="knob"/></g>
 <text x="92" y="57" font-size="23" font-weight="800" fill="#FFFFFF">Widget</text>
-<text x="28" y="102" font-size="14.5" fill="#C3CEEE"><tspan x="28" dy="0">Panel de ajustes razonables en tiempo real, con más de</tspan><tspan x="28" dy="21">20 herramientas</tspan></text>
-<text x="28" y="146" font-size="14.5" font-weight="700" fill="#A78BFA">Abrir Widget →</text>
+<text x="28" y="100" font-size="15.5" fill="#C3CEEE"><tspan x="28" dy="0">Panel de ajustes razonables en tiempo real, con más</tspan><tspan x="28" dy="21">de 20 herramientas</tspan></text>
+<text x="28" y="146" font-size="15" font-weight="700" fill="#A78BFA">Abrir Widget →</text>
 </svg>

@@ -25,6 +25,6 @@
 <rect x="28" y="24" width="48" height="48" rx="13" fill="#FBBF24" fill-opacity=".16" stroke="#FBBF24" stroke-opacity=".5"/>
 <g class="ic" transform="translate(40 36)"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4M9 12h6M9 16h6"/></g>
 <text x="92" y="57" font-size="23" font-weight="800" fill="#FFFFFF">Docs</text>
-<text x="28" y="102" font-size="14.5" fill="#C3CEEE"><tspan x="28" dy="0">Auditoría y corrección de documentos PDF y Word (PDF/UA)</tspan></text>
-<text x="28" y="146" font-size="14.5" font-weight="700" fill="#FBBF24">Abrir Docs →</text>
+<text x="28" y="100" font-size="15.5" fill="#C3CEEE"><tspan x="28" dy="0">Auditoría y corrección de documentos PDF y Word</tspan><tspan x="28" dy="21">bajo el estándar PDF/UA</tspan></text>
+<text x="28" y="146" font-size="15" font-weight="700" fill="#FBBF24">Abrir Docs →</text>
 </svg>

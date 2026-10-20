@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Diego Mena, accesibilidad digital e ingeniería de software">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Diego Mena, accesibilidad digital e ingeniería de software">
 <title>Diego Mena · Accesibilidad digital · Ingeniería de software · A11Y PRO</title>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -9,7 +9,7 @@
     <stop offset="0" stop-color="#7DD3FC"/><stop offset="1" stop-color="#C4B5FD"/>
   </linearGradient>
   <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
-  <clipPath id="clip"><rect width="1000" height="300" rx="20"/></clipPath>
+  <clipPath id="clip"><rect width="1000" height="340" rx="20"/></clipPath>
 </defs>
 <style>
   text{font-family:'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif}
@@ -17,47 +17,75 @@
   .orb2{animation:drift2 14s ease-in-out infinite alternate}
   .flow{stroke-dasharray:6 12;animation:flow 3s linear infinite}
   .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-out infinite}
-  .in1{animation:rise .9s ease-out both}
-  .in2{animation:rise .9s .15s ease-out both}
-  .in3{animation:rise .9s .3s ease-out both}
-  .in4{animation:rise .9s .45s ease-out both}
+  .mobile-only{display:none}
+  @media (max-width: 600px){
+    .desktop-only{display:none}
+    .mobile-only{display:inline}
+  }
   @keyframes drift1{to{transform:translate(90px,40px)}}
   @keyframes drift2{to{transform:translate(-80px,-30px)}}
   @keyframes flow{to{stroke-dashoffset:-36}}
   @keyframes pulse{0%{transform:scale(1);opacity:.6}100%{transform:scale(1.35);opacity:0}}
-  @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
   @media (prefers-reduced-motion: reduce){*{animation:none !important}}
 </style>
 <g clip-path="url(#clip)">
-  <rect width="1000" height="300" fill="url(#bg)"/>
+  <rect width="1000" height="340" fill="url(#bg)"/>
   <circle class="orb1" cx="150" cy="40" r="110" fill="#2F81F7" opacity=".38" filter="url(#blur)"/>
-  <circle class="orb2" cx="860" cy="260" r="120" fill="#8B5CF6" opacity=".5" filter="url(#blur)"/>
+  <circle class="orb2" cx="860" cy="290" r="120" fill="#8B5CF6" opacity=".5" filter="url(#blur)"/>
   <g fill="none" stroke="#7DD3FC" stroke-width="1.6" opacity=".55" stroke-linecap="round">
-    <path class="flow" d="M1000 40H900l-30 30h-60"/>
-    <path class="flow" d="M1000 90H940l-24 24"/>
-    <path class="flow" d="M1000 210H920l-26-26"/>
-    <path class="flow" d="M1000 262H880l-34-34h-40"/>
+    <path class="flow" d="M1000 45H900l-30 30h-60"/>
+    <path class="flow" d="M1000 98H940l-24 24"/>
+    <path class="flow" d="M1000 242H920l-26-26"/>
+    <path class="flow" d="M1000 296H880l-34-34h-40"/>
   </g>
-  <g fill="#C4B5FD" opacity=".8"><circle cx="810" cy="70" r="3.5"/><circle cx="916" cy="114" r="3.5"/><circle cx="894" cy="184" r="3.5"/><circle cx="806" cy="228" r="3.5"/></g>
-  <g transform="translate(840 150)">
-    <circle class="pulse" r="70" fill="none" stroke="url(#ring)" stroke-width="2"/>
-    <circle r="70" fill="rgba(255,255,255,.06)" stroke="url(#ring)" stroke-width="4"/>
-    <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-      <circle cx="0" cy="-34" r="7" fill="#fff" stroke="none"/>
-      <path d="M-30 -14C-10 -8 10 -8 30 -14"/>
-      <path d="M0 -10V14M0 14L-14 38M0 14L14 38"/>
+  <g fill="#C4B5FD" opacity=".8"><circle cx="810" cy="75" r="3.5"/><circle cx="916" cy="122" r="3.5"/><circle cx="894" cy="216" r="3.5"/><circle cx="806" cy="262" r="3.5"/></g>
+
+  <!-- Desktop layout (> 600px) -->
+  <g class="desktop-only">
+    <g transform="translate(840 170)">
+      <circle class="pulse" r="74" fill="none" stroke="url(#ring)" stroke-width="2"/>
+      <circle r="74" fill="rgba(255,255,255,.06)" stroke="url(#ring)" stroke-width="4"/>
+      <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="0" cy="-34" r="7" fill="#fff" stroke="none"/>
+        <path d="M-30 -14C-10 -8 10 -8 30 -14"/>
+        <path d="M0 -10V14M0 14L-14 38M0 14L14 38"/>
+      </g>
+    </g>
+    <text x="60" y="96" font-size="14" font-weight="700" letter-spacing="2.4" fill="#7DD3FC">INGENIERO ELECTRÓNICO · ESPECIALISTA EN ACCESIBILIDAD WEB</text>
+    <text x="58" y="180" font-size="78" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Diego Mena</text>
+    <text x="60" y="226" font-size="22" fill="#DDE5FF">Accesibilidad digital · Ingeniería de software · A11Y PRO</text>
+    <g font-size="15" font-weight="600" fill="#FFFFFF">
+      <rect x="60" y="256" width="104" height="36" rx="18" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.35)"/>
+      <text x="112" y="279" text-anchor="middle">WCAG 2.2</text>
+      <rect x="176" y="256" width="110" height="36" rx="18" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.35)"/>
+      <text x="231" y="279" text-anchor="middle">+10 años</text>
+      <rect x="298" y="256" width="176" height="36" rx="18" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.35)"/>
+      <text x="386" y="279" text-anchor="middle">Bogotá, Colombia</text>
     </g>
   </g>
-  <text class="in1" x="60" y="92" font-size="13" font-weight="700" letter-spacing="2.4" fill="#7DD3FC">INGENIERO ELECTRÓNICO · ESPECIALISTA EN ACCESIBILIDAD WEB</text>
-  <text class="in2" x="58" y="170" font-size="76" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Diego Mena</text>
-  <text class="in3" x="60" y="212" font-size="21" fill="#DDE5FF">Accesibilidad digital · Ingeniería de software · A11Y PRO</text>
-  <g class="in4" font-size="14" font-weight="600" fill="#FFFFFF">
-    <rect x="60" y="238" width="96" height="32" rx="16" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.35)"/>
-    <text x="108" y="259" text-anchor="middle">WCAG 2.2</text>
-    <rect x="166" y="238" width="104" height="32" rx="16" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.35)"/>
-    <text x="218" y="259" text-anchor="middle">+10 años</text>
-    <rect x="280" y="238" width="166" height="32" rx="16" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.35)"/>
-    <text x="363" y="259" text-anchor="middle">Bogotá, Colombia</text>
+
+  <!-- Mobile layout (<= 600px rendered width) -->
+  <g class="mobile-only">
+    <g transform="translate(865 118) scale(1.15)">
+      <circle class="pulse" r="70" fill="none" stroke="url(#ring)" stroke-width="2.5"/>
+      <circle r="70" fill="rgba(255,255,255,.08)" stroke="url(#ring)" stroke-width="4.5"/>
+      <g fill="none" stroke="#fff" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="0" cy="-34" r="7.5" fill="#fff" stroke="none"/>
+        <path d="M-30 -14C-10 -8 10 -8 30 -14"/>
+        <path d="M0 -10V14M0 14L-14 38M0 14L14 38"/>
+      </g>
+    </g>
+    <text x="48" y="68" font-size="22" font-weight="700" letter-spacing="2" fill="#7DD3FC">INGENIERO ELECTRÓNICO · A11Y WEB</text>
+    <text x="46" y="168" font-size="104" font-weight="800" fill="#FFFFFF" letter-spacing="-2">Diego Mena</text>
+    <text x="48" y="222" font-size="31" font-weight="600" fill="#DDE5FF">Accesibilidad digital · Ingeniería · <tspan fill="#7DD3FC" font-weight="800">A11Y PRO</tspan></text>
+    <g font-size="24" font-weight="700" fill="#FFFFFF">
+      <rect x="48" y="254" width="176" height="54" rx="27" fill="rgba(255,255,255,.14)" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/>
+      <text x="136" y="289" text-anchor="middle">WCAG 2.2</text>
+      <rect x="240" y="254" width="180" height="54" rx="27" fill="rgba(255,255,255,.14)" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/>
+      <text x="330" y="289" text-anchor="middle">+10 años</text>
+      <rect x="436" y="254" width="286" height="54" rx="27" fill="rgba(255,255,255,.14)" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/>
+      <text x="579" y="289" text-anchor="middle">Bogotá, Colombia</text>
+    </g>
   </g>
 </g>
 </svg>

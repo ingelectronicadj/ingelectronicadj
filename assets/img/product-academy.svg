@@ -25,6 +25,6 @@
 <rect x="28" y="24" width="48" height="48" rx="13" fill="#34D399" fill-opacity=".16" stroke="#34D399" stroke-opacity=".5"/>
 <g class="ic" transform="translate(40 36)"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11.5V16c0 2 12 2 12 0v-4.5M22 9v6"/></g>
 <text x="92" y="57" font-size="23" font-weight="800" fill="#FFFFFF">Academy</text>
-<text x="28" y="102" font-size="14.5" fill="#C3CEEE"><tspan x="28" dy="0">Formación y certificación para equipos</tspan></text>
-<text x="28" y="146" font-size="14.5" font-weight="700" fill="#34D399">Abrir Academy →</text>
+<text x="28" y="102" font-size="15.5" fill="#C3CEEE"><tspan x="28" dy="0">Formación y certificación en accesibilidad para equipos</tspan></text>
+<text x="28" y="146" font-size="15" font-weight="700" fill="#34D399">Abrir Academy →</text>
 </svg>
