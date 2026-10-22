@@ -50,6 +50,7 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 ## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/code.svg" width="24" height="24" alt="" align="absmiddle"> Ecosistema Open Source de Accesibilidad Digital
 
 <p align="center">
+  <a href="https://github.com/ingelectronicadj/talkback-a11y-auditor"><img width="268" alt="Repositorio talkback-a11y-auditor: auditor lineal de Android TalkBack con gestos vía QEMU, captura de voz por OCR, inspección DOM y ARIA en WebView mediante CDP y reportes interactivos WCAG 2.2" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-talkback-a11y-auditor.svg"></a>
   <a href="https://github.com/ingelectronicadj/test-cases-a11y"><img width="268" alt="Repositorio test-cases-a11y: 87 casos de prueba basados en WCAG 2.2 en español e inglés para Jira, Azure DevOps, TestRail, Qase y GitLab" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-test-cases-a11y.svg"></a>
   <a href="https://github.com/ingelectronicadj/pa11y_batch"><img width="268" alt="Repositorio pa11y_batch: auditoría web por lotes con Pa11y (axe y htmlcs), traducción al español, dashboard HTML y modo CI/CD" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-pa11y-batch.svg"></a>
   <a href="https://github.com/ingelectronicadj/a11y-help-VBAexcel"><img width="268" alt="Repositorio a11y-help-VBAexcel: asistente en Excel con VBA y catálogo de reglas axe-core en español para estandarizar auditorías" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/project-a11y-help-vba.svg"></a>
@@ -63,10 +64,10 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 
 <br>
 
-- **[FisicaConPython](https://github.com/ingelectronicadj/FisicaConPython)** — Gráficos 2D y 3D interactivos para aprender física moderna, cuántica y ondas electromagnéticas *(Python, Matplotlib)*.
-- **[IoT-Quality_Air_And_Water](https://github.com/ingelectronicadj/IoT-Quality_Air_And_Water)** — Modelo escalable de captura de datos IoT ajustado a las normas ISO 14064 para huella de carbono y agua *(C++, IoT)*.
-- **[IoT medidor de peso](https://github.com/ingelectronicadj/IoT-para-medir-peso-al-interior-de-un-contendeor)** — Sensado de peso remoto dentro de un contenedor, con envío a un servidor por GSM *(Atmega 328, GSM, Eagle)*.
-- **[Comunicaciones-Digitales](https://github.com/ingelectronicadj/Comunicaciones-Digitales)** — Proyectos de modelamiento y simulación de comunicaciones digitales *(C++)*.
+- **[FisicaConPython](https://github.com/ingelectronicadj/FisicaConPython)**: Gráficos 2D y 3D interactivos para aprender física moderna, cuántica y ondas electromagnéticas *(Python, Matplotlib)*.
+- **[IoT-Quality_Air_And_Water](https://github.com/ingelectronicadj/IoT-Quality_Air_And_Water)**: Modelo escalable de captura de datos IoT ajustado a las normas ISO 14064 para huella de carbono y agua *(C++, IoT)*.
+- **[IoT medidor de peso](https://github.com/ingelectronicadj/IoT-para-medir-peso-al-interior-de-un-contendeor)**: Sensado de peso remoto dentro de un contenedor, con envío a un servidor por GSM *(Atmega 328, GSM, Eagle)*.
+- **[Comunicaciones-Digitales](https://github.com/ingelectronicadj/Comunicaciones-Digitales)**: Proyectos de modelamiento y simulación de comunicaciones digitales *(C++)*.
 
 </details>
 
@@ -78,6 +79,7 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 
 <p>
   <img alt="WCAG 2.2" src="https://img.shields.io/badge/WCAG_2.2-0EA5E9?style=for-the-badge">
+  <img alt="Android TalkBack" src="https://img.shields.io/badge/Android_TalkBack-3DDC84?style=for-the-badge&logo=android&logoColor=111827">
   <img alt="axe-core" src="https://img.shields.io/badge/axe--core-D9381E?style=for-the-badge">
   <img alt="Pa11y" src="https://img.shields.io/badge/Pa11y-7C3AED?style=for-the-badge">
   <img alt="HTML CodeSniffer" src="https://img.shields.io/badge/HTML__CodeSniffer-0F766E?style=for-the-badge">
@@ -116,8 +118,8 @@ Ingeniero electrónico, especialista en accesibilidad web y **detrás de [A11Y P
 ## <img src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/icons/graph.svg" width="24" height="24" alt="" align="absmiddle"> GitHub en números
 
 <p align="center">
-  <img width="408" alt="GitHub en números: 40 proyectos propios, 18 estrellas recibidas, 25 seguidores y 12 años en GitHub" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/stats.svg">
-  <img width="408" alt="Lenguajes más usados por número de proyectos propios: JavaScript 9, Arduino 6, C++ 4, Python 4, MATLAB 2 y Processing 2. También Shell, PHP, CSS y VBA" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/languages.svg">
+  <img width="408" alt="GitHub en números: 41 proyectos propios, 18 estrellas recibidas, 26 seguidores y 12 años en GitHub" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/stats.svg">
+  <img width="408" alt="Lenguajes más usados por número de proyectos propios: JavaScript 9, Arduino 6, Python 5, C++ 4, MATLAB 2 y Processing 2. También Shell, PHP, CSS y VBA" src="https://raw.githubusercontent.com/ingelectronicadj/ingelectronicadj/main/assets/img/languages.svg">
 </p>
 
 <div align="center">

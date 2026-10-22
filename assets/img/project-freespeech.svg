@@ -29,7 +29,7 @@
 
 <circle cx="28" cy="62" r="4.5" fill="#10B981"/>
 <text x="38" y="66" font-size="12" font-weight="600" fill="#DDE5FF">Vue 3 · Vite · WCAG 2.2 AA</text>
-<text x="296" y="66" font-size="12" font-weight="600" fill="#9FB0D8" text-anchor="end">v2.0.0</text>
+<text x="296" y="66" font-size="12" font-weight="600" fill="#9FB0D8" text-anchor="end">v2.2.0</text>
 
 <text x="24" y="96" font-size="13" fill="#C3CEEE"><tspan x="24" dy="0">Comunicador aumentativo (SAAC) con</tspan><tspan x="24" dy="20">copiado de texto plano y ventana</tspan><tspan x="24" dy="20">flotante customTrigger para Moodle.</tspan></text>
 
