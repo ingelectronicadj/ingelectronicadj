@@ -29,7 +29,7 @@
 
 <circle cx="28" cy="62" r="4.5" fill="#22C55E"/>
 <text x="38" y="66" font-size="12" font-weight="600" fill="#DDE5FF">Python · TalkBack · CDP</text>
-<text x="296" y="66" font-size="12" font-weight="600" fill="#9FB0D8" text-anchor="end">v0.3.1 · 16 reglas</text>
+<text x="296" y="66" font-size="12" font-weight="600" fill="#9FB0D8" text-anchor="end">v0.10.0 · 16 reglas</text>
 
 <text x="24" y="96" font-size="13" fill="#C3CEEE"><tspan x="24" dy="0">Auditor lineal de Android TalkBack con</tspan><tspan x="24" dy="20">gestos QEMU, captura de voz por OCR,</tspan><tspan x="24" dy="20">inspector WebView CDP y reporte HTML.</tspan></text>
 
